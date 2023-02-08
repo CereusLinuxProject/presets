@@ -6,4 +6,4 @@ onlyDisplayVisible=true
 onlyDisplayScreen=true
 showPreviews=true
 showWindowCount=true
-pinned=/usr/share/applications/xfce4-terminal.desktop;/usr/share/applications/org.kde.falkon.desktop;/usr/share/applications/thunar.desktop;/usr/share/applications/rhythmbox.desktop;
+pinned=/usr/share/applications//thunar.desktop;/usr/share/applications//rhythmbox.desktop;/usr/share/applications//org.kde.falkon.desktop;/usr/share/applications//xfce4-terminal.desktop;
